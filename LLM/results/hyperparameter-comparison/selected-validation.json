@@ -1,0 +1,10 @@
+{
+  "checkpoint": "local checkpoint: continued 64-character-context run, epoch 9",
+  "split": "val",
+  "epoch": 9,
+  "step": 31365,
+  "loss": 1.6033280265742336,
+  "perplexity": 4.969543707681736,
+  "accuracy": 0.525457974137931,
+  "tokens": 111360
+}
